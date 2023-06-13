@@ -3,13 +3,18 @@
     margin-bottom: 50px;
 }
 
+.header h1 {
+    margin-top: 0px;
+}
+
 .header img {
-    margin-right: 20px;
+    margin-right: 10px;
     height: 200px;
     width: 150px;
 }
 
 .edu-certs {
+    justify-content: center;
     display: flex;
 }
 
@@ -19,4 +24,8 @@
 
 .certs h4 {
     text-align: center;
+}
+
+.biography {
+    margin: 0px;
 }
