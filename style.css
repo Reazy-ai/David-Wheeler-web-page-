@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.header img {
+    margin-right: 20px;
+    height: 200px;
+    width: 150px;
+}
+
+.edu-certs {
+    display: flex;
+}
+
+.edu h4 {
+    text-align: center;
+}
+
+.certs h4 {
+    text-align: center;
+}
